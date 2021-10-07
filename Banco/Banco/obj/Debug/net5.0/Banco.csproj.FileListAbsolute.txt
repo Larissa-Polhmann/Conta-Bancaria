@@ -1,0 +1,16 @@
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.exe
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.dll
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.csproj.AssemblyReference.cache
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.dll
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.pdb
+C:\Users\larissa.p\Desktop\Banco\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
